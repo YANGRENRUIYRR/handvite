@@ -60,8 +60,8 @@
 			"id": 5,
 			"name": "Stylus",
 			"url": "https://add0n.com/stylus.html",
-			"downloadUrl": "https://add0n.com/stylus.html",
-			"avatar": "https://cdn.add0n.com/icons/stylus64.png",
+			"downloadUrl": "https://chrome.zzzmh.cn/info/clngdbkpkpeebahjckkjfobafhncgmne",
+			"avatar": "https://cdn3.zzzmh.cn/v3/crx/c392a259f5b247308d8b980b1bdc88da/logo/logo.png/logo?auth_key=1772640000-05c88de9acf1279dea5fb5256fa1144897aac8d9-0-0e63eed3e76088c5a853d6a99f1111b0",
 			"description": "用户样式管理器，轻松为网站应用自定义 CSS 样式",
 			"tags": [
 				"美化",
@@ -71,4 +71,5 @@
 			"type": "script"
 		}
 	]
+
 }
